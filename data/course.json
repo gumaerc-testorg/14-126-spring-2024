@@ -1,0 +1,44 @@
+{
+  "term": "Spring",
+  "year": "2024",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics"
+    ],
+    [
+      "Social Science",
+      "Game Theory"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "114556ab-4e11-bfc2-ab71-2fe2c3eeb3b0",
+      "e7cf2ffc-9988-c91c-7038-056328ee9fed"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "82c02b30-8b5a-407b-93b0-1f62cdb3283f",
+    "website": "game-theory"
+  },
+  "course_title": "Game Theory",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "This course investigates equilibrium and non-equilibrium solution concepts and their foundations as the result of learning or evolution. Among the topics covered are the equilibria of supermodular games, global games, repeated games, signaling games, and models of bargaining, cheap talk, and reputation.",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.126",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Readings"
+  ],
+  "site_uid": "88ed4826-56d8-4d92-8b31-3ae809d5eaee",
+  "site_short_id": "14-126-spring-2024"
+}
