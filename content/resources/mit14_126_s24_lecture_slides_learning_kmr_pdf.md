@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/game-theory/mit14_126_s24_lecture_slides_learning_kmr.pdf
+file: /ol-ocw-studio-app/courses/14.126-game-theory-spring-2024/mit14_126_s24_lecture_slides_learning_kmr.pdf
 file_size: 135084
 file_type: application/pdf
 image_metadata:
