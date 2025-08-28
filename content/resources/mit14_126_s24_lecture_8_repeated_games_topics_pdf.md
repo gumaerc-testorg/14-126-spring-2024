@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/game-theory/mit14_126_s24_lecture_8_repeated_games_topics.pdf
+file: /ol-ocw-studio-app/courses/14.126-game-theory-spring-2024/mit14_126_s24_lecture_8_repeated_games_topics.pdf
 file_size: 242080
 file_type: application/pdf
 image_metadata:
