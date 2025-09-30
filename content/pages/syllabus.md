@@ -12,13 +12,13 @@ Lectures: 2 sessions/week, 1.5 hours/session
 
 ## Prerequisites
 
-[*14.122 Microeconomic Theory II*](https://ocw.mit.edu/courses/14-122-microeconomic-theory-ii-fall-2002/) or equivalent. Some familiarity with real analysis, probability theory, and ODE’s is assumed.
+{{% resource_link "58c3d07c-2fac-4a22-af3e-9a2f0dbcf639" "*14.122 Microeconomic Theory II*" %}} or equivalent. Some familiarity with real analysis, probability theory, and ODE’s is assumed.
 
 ## Textbooks (optional)
 
-Drew Fudenberg and Jean Tirole. *Game Theory*. MIT Press, 1991. ISBN: 9780262061414 \[[Buy at MIT Press](https://mitpress.mit.edu/9780262061414/game-theory/)\]
+Drew Fudenberg and Jean Tirole. *Game Theory*. MIT Press, 1991. ISBN: 9780262061414 \[{{% resource_link "8689ab66-99d6-4db1-becb-18bfaadfafd9" "Buy at MIT Press" %}}\]
 
-George J. Mailath and Larry Samuelson. [*Repeated Games and Reputations: Long-Run Relationship*s](https://search.worldcat.org/en/title/79598416). Oxford University Press, 2006. ISBN: 9780195300796
+George J. Mailath and Larry Samuelson. {{% resource_link "b027aa51-55cb-4523-a330-cb67d9d3504e" "*Repeated Games and Reputations: Long-Run Relationship*s" %}}. Oxford University Press, 2006. ISBN: 9780195300796
 
 ## Grading
 
